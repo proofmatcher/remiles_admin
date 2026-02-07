@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "60865903848",
+    "project_id": "re-miles-dfm",
+    "storage_bucket": "re-miles-dfm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60865903848:android:6fda31291f05b6598a5d5d",
+        "android_client_info": {
+          "package_name": "com.example.majh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60865903848-ifeje8oo05qgrcfritgho1eefeaoh8l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majh",
+            "certificate_hash": "95f7e386cd42eb556d1429272688218e86e7c837"
+          }
+        },
+        {
+          "client_id": "60865903848-qufrm62v42k4kuh30jr022dr2mjcim5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WUjysk_a3yocx2iSJLUi5TUT8AX3esY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60865903848-qufrm62v42k4kuh30jr022dr2mjcim5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60865903848-1b2qqj7b6cn681ng7f1li77jfmn3gk3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.majh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60865903848:android:d2a536736441a8888a5d5d",
+        "android_client_info": {
+          "package_name": "com.example.remiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60865903848-mfoilg18pqo8i4fsuu2toq756kt819s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remiles",
+            "certificate_hash": "95f7e386cd42eb556d1429272688218e86e7c837"
+          }
+        },
+        {
+          "client_id": "60865903848-qufrm62v42k4kuh30jr022dr2mjcim5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WUjysk_a3yocx2iSJLUi5TUT8AX3esY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60865903848-qufrm62v42k4kuh30jr022dr2mjcim5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60865903848-1b2qqj7b6cn681ng7f1li77jfmn3gk3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.majh"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60865903848:android:48cac9eca753df838a5d5d",
+        "android_client_info": {
+          "package_name": "com.example.remiles_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60865903848-qufrm62v42k4kuh30jr022dr2mjcim5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WUjysk_a3yocx2iSJLUi5TUT8AX3esY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60865903848-qufrm62v42k4kuh30jr022dr2mjcim5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60865903848-1b2qqj7b6cn681ng7f1li77jfmn3gk3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.majh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
